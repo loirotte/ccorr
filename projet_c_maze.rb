@@ -13,6 +13,7 @@ class ProjetCMaze< ProjetC
 end
 
 # Ici un bon gros test !
+# Bon, puisque tu insistes !
 
 # ###########
 #
