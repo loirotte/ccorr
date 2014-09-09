@@ -12,6 +12,9 @@ class ProjetCMaze< ProjetC
   end
 end
 
+# Ici un bon gros test !
+# Bon, puisque tu insistes !
+
 # ###########
 #
 # MAIN METHOD
